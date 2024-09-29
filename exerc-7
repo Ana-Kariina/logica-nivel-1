@@ -1,0 +1,14 @@
+#fazer um pinheiro 
+print("""""""""""
+       X
+      XXX
+     XXXXX
+    XXXXXXX
+   XXXXXXXXX
+  XXXXXXXXXXX
+ XXXXXXXXXXXXX
+XXXXXXXXXXXXXXX
+       XX
+       XX
+      XXXX
+""""""""""")
